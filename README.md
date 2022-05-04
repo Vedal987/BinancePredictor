@@ -1,4 +1,4 @@
-# BinancePredictor
+# Binance Price Predictor
 A simple LSTM implemented in Keras designed to predict crypto prices.
 
 This project expects a summary.csv file in the format described at https://github.com/binance/binance-public-data/ and includes a pretrained BNB-USDT-predictor.h5
